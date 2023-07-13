@@ -1,0 +1,7 @@
+These are the python packages which need to be installed:
+
+streamlit
+pandas
+pickle
+requests
+base64
