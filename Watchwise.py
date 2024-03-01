@@ -63,7 +63,7 @@ def add_bg_from_local(image_file):
     )
 
 
-add_bg_from_local("1234.jpg")
+add_bg_from_local("background.jpg")
 
 # Font Style
 with open("font.css") as f:
