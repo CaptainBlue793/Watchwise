@@ -1,7 +1,5 @@
-These are the python packages which need to be installed:
-
-streamlit
-pandas
-pickle
-requests
-base64
+streamlit>=1.40,<2
+scikit-learn>=1.4,<2
+pandas>=2,<4
+numpy>=1.26,<3
+requests>=2.31,<3
